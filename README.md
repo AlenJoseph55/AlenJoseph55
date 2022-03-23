@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Alenjoseph@duck.com**
 
-- ⚡ Fun fact **I'm a Kaattu Padippi 😂**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
