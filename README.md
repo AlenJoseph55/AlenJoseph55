@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋! I am Alen Joseph </h2>
 
-
+###
+-  🛠 I mostly work on react
+-  🌱 Still kind of trying to figure out contributing to Opensource
 ###
 
 <div align="center">
