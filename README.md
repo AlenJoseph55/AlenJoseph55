@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Alen Joseph and I'm an Engineering Student from kerala, India</h2>
+<h2 align="center">Hi 👋! I am Alen Joseph </h2>
+
 
 ###
 
