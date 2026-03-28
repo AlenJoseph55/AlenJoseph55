@@ -22,10 +22,7 @@ I build APIs, developer tools, and systems that automate boring work.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alenjoseph55&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alenjoseph55&layout=compact&theme=dracula" height="150" />
-</div>
+<img src="https://raw.githubusercontent.com/alenjoseph55/alenjoseph55/output/snake.svg" alt="Snake animation" />
 
 ---
 
