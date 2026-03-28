@@ -1,54 +1,41 @@
-<h2 align="center">Hi 👋! I am Alen Joseph </h2>
+<h2 align="center">Hi 👋 I'm Alen Joseph</h2>
 
-###
--  🛠 I mostly work on react
--  🌱 Still kind of trying to figure out contributing to Opensource
-###
+<p align="center">
+Backend-focused Software Engineer working with Node.js, NestJS, and React.<br/>
+I build APIs, developer tools, and systems that automate boring work.
+</p>
+
+---
+
+### 🛠 Tech Stack
+- Backend: Node.js, NestJS, Express, Fastify  
+- Frontend: React, Next.js  
+- Databases: MongoDB, PostgreSQL  
+- Tools: Git, Docker, Postman  
+
+---
+
+### 🚀 What I'm Working On
+- Building developer tools (LogMyCode, API Generator)  
+- Exploring backend architecture & system design  
+- Automating repetitive workflows  
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alenjoseph55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alenjoseph55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alenjoseph55&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alenjoseph55&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
-  <img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif"  />
-</div>
-
-###
-
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/alenjosep" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Alen Joseph's LinkedIn"/>
-  </a>
-  <a href="mailto:alenjoseph@duck.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href=
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    <a href="https://twitter.com/Alen__Joseph" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-    </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alenjoseph55/alenjoseph55/output/snake.svg" alt="Snake animation" />
-
-###
+### 📫 Connect with me
+<a href="https://www.linkedin.com/in/alenjosep" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:alenjoseph@duck.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Alen__Joseph" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
